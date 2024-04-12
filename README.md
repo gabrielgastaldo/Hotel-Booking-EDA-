@@ -14,4 +14,4 @@ Link do repositório: https://www.kaggle.com/datasets/jessemostipak/hotel-bookin
 
 ## <strong>⚒️ Passo a passo:<strong>
 - Tratamento da base: limpeza, criação e ajuste das variáveis de data, numéricas e categóricas.
-- Análise exploratória dos dados: Responder as perguntas de negócio e validar as hipóteses. 
+- Análise exploratória dos dados: Validar as hipóteseses levantadas e responder as perguntas de negócio. 
