@@ -7,6 +7,7 @@ Os dados foram extraídos do Kaggle.
 Link do repositório: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ## <strong>🚀 Tecnologias utilizadas:<strong>
+- Jupyter Notebook 
 - pandas 
 - numpy 
 - matplotlib.pyplot 
