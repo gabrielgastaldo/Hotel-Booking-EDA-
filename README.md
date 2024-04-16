@@ -1,10 +1,10 @@
  <h1 align="center">Hotel Booking EDA</h1>
 
 ## <strong>📌 Sobre o projeto:<strong>
-A XPTO é um ecommerce que atua nos estados unidos, o diretor de marketing está passando por alguns problemas para definir as estratégias das campanhas de 2019, e pediu que realizassemos uma análise das vendas baseado em alguns problemas de negócio que ele identificou. 
+Nos últimos anos, os hotéis urbanos e resorts têm enfrentado altas taxas de cancelamento, levando a uma série de desafios, como receitas reduzidas e subutilização dos quartos do hotel. Reduzir essas taxas tornou-se uma prioridade para ambos os tipos de hotel, visando melhorar a eficiência na geração de receita. Este relatório analisa os cancelamentos de reservas de hotel e outros fatores que impactam a receita anual, visando oferecer insights para resolver esse problema.
 
 Os dados foram extraídos do Kaggle. 
-Link do repositório: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+Link do repositório: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ## <strong>🚀 Tecnologias utilizadas:<strong>
 - pandas 
